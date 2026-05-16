@@ -1,4 +1,4 @@
-# 
+# smart Polymarket Addon | multi-exchange-support + real-time-market-analysis offers the most advanced Polymarket addon, with multi-exchange-support and real-time-market-analysis.
 
 
 
